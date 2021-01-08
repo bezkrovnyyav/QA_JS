@@ -3,7 +3,7 @@ let i, j
  
  
 for(i=1; i<=n; i++)
-    { 
+{ 
         for(j=i; j<n; j++)
         {
             console.put(" ");
@@ -15,6 +15,5 @@ for(i=1; i<=n; i++)
             console.put("*");
         }
  
-        console.put("<br>");
-
+        console.put("\n);
 }
